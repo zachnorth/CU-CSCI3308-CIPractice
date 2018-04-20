@@ -1,4 +1,4 @@
-x:
+matrix:
   include:
     # works on Precise and Trusty
     - os: linux
